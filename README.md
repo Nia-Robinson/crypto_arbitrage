@@ -4,10 +4,13 @@ This is a Jupyter notebook that contains the code for the data collection, prepa
 
 Datasets:
 bitstamp.csv (lower-priced exchange)
+---
 coinbase.csv (higher-priced exchange)
 
 Early Date Period: 2018-01-16
+---
 Middle Date Period: 2018-02-24
+---
 Late Date Period: 2018-03-26
 
 Final analysis:
